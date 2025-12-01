@@ -71,7 +71,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-2">
               <Icon name="Sprout" className="text-primary" size={32} />
-              <span className="text-2xl font-bold text-primary">ФрешОпт</span>
+              <span className="text-2xl font-bold text-primary">ФЕЙТ</span>
             </div>
             <div className="hidden md:flex gap-8">
               <button
@@ -223,7 +223,7 @@ const Index = () => {
             <div className="space-y-6">
               <h2 className="text-4xl md:text-5xl font-bold">О компании</h2>
               <p className="text-lg text-gray-700 leading-relaxed">
-                <strong>ФрешОпт</strong> — надежный поставщик свежих овощей и фруктов
+                <strong>ФЕЙТ</strong> — надежный поставщик свежих овощей и фруктов
                 для розничных сетей, ресторанов и предприятий общественного питания.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
@@ -349,7 +349,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Sprout" className="text-primary" size={32} />
-                <span className="text-2xl font-bold">ФрешОпт</span>
+                <span className="text-2xl font-bold">ФЕЙТ</span>
               </div>
               <p className="text-gray-400">
                 Свежие овощи и фрукты оптом по всей России
@@ -392,7 +392,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-            © 2024 ФрешОпт. Все права защищены.
+            © 2024 ФЕЙТ. Все права защищены.
           </div>
         </div>
       </footer>
